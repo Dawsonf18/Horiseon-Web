@@ -8,7 +8,7 @@ This is a code project that incorperates html and css to improve website repair 
 * CSS
 
 ## Website
-./bootcamp/portfolio/index.html#social-media-marketing
+https://dawsonf18.github.io/Horiseon-Web/
 
 ## Contribution
 Made with ❤️ by [Dawson Filion]
