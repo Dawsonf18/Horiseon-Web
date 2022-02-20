@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/* will change background color of the website */
 body {
     background-color: #d9dcd6;
 }
-
+/* changes style of header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* puts labels within the heading in a horizontal line */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* assists users when searching for website */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* allows the header to be highlighted within a container */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* displays main thumbnail of page */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* next few sections syles the looks of each box */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* next few sections pulls the pictures from their links so able to see */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* adds footer to bottom of page and styles it*/
 .footer {
     padding: 30px;
     clear: both;
